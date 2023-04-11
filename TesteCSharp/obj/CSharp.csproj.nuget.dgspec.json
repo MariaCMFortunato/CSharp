@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saoma\\Documents\\MeusProjetos\\TesteCSharp\\CSharp.csproj": {}
+    "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\TesteCSharp\\CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saoma\\Documents\\MeusProjetos\\TesteCSharp\\CSharp.csproj": {
+    "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\TesteCSharp\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saoma\\Documents\\MeusProjetos\\TesteCSharp\\CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\TesteCSharp\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "C:\\Users\\saoma\\Documents\\MeusProjetos\\TesteCSharp\\CSharp.csproj",
+        "projectPath": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\TesteCSharp\\CSharp.csproj",
         "packagesPath": "C:\\Users\\saoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saoma\\Documents\\MeusProjetos\\TesteCSharp\\obj\\",
+        "outputPath": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\TesteCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
