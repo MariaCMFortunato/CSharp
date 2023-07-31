@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj": {}
+    "c:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj": {
+    "c:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj",
+        "projectUniqueName": "c:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj",
         "projectName": "ConversorTemperatura",
-        "projectPath": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj",
+        "projectPath": "c:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj",
         "packagesPath": "C:\\Users\\saoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\obj\\",
+        "outputPath": "c:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saoma\\AppData\\Roaming\\NuGet\\NuGet.Config"

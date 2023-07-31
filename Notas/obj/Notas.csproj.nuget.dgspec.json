@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\Notas\\Notas.csproj": {}
+    "c:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\Notas\\Notas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\Notas\\Notas.csproj": {
+    "c:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\Notas\\Notas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\Notas\\Notas.csproj",
+        "projectUniqueName": "c:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\Notas\\Notas.csproj",
         "projectName": "Notas",
-        "projectPath": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\Notas\\Notas.csproj",
+        "projectPath": "c:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\Notas\\Notas.csproj",
         "packagesPath": "C:\\Users\\saoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\Notas\\obj\\",
+        "outputPath": "c:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\Notas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
