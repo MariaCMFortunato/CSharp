@@ -8,24 +8,32 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\saoma\\.nuget\\packages\\": {}
+    "C:\\Users\\Maria11\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj",
+      "projectUniqueName": "G:\\Documentos\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj",
       "projectName": "ConversorTemperatura",
-      "projectPath": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj",
-      "packagesPath": "C:\\Users\\saoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saoma\\Documents\\MeusProjetos\\CSharp\\ConversorTemperatura\\obj\\",
+      "projectPath": "G:\\Documentos\\MeusProjetos\\CSharp\\ConversorTemperatura\\ConversorTemperatura.csproj",
+      "packagesPath": "C:\\Users\\Maria11\\.nuget\\packages\\",
+      "outputPath": "G:\\Documentos\\MeusProjetos\\CSharp\\ConversorTemperatura\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\saoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Maria11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
