@@ -28,3 +28,17 @@ C:\Users\saoma\Documents\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\refint
 C:\Users\saoma\Documents\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.pdb
 C:\Users\saoma\Documents\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
 C:\Users\saoma\Documents\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\ref\CSharp.dll
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\bin\Debug\net7.0\CSharp.exe
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\bin\Debug\net7.0\CSharp.deps.json
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\bin\Debug\net7.0\CSharp.runtimeconfig.json
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\bin\Debug\net7.0\CSharp.dll
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\bin\Debug\net7.0\CSharp.pdb
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.dll
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\refint\CSharp.dll
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.pdb
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\ref\CSharp.dll

@@ -1,0 +1,14 @@
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\bin\Debug\net7.0\TesteDeProjetos.exe
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\bin\Debug\net7.0\TesteDeProjetos.deps.json
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\bin\Debug\net7.0\TesteDeProjetos.runtimeconfig.json
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\bin\Debug\net7.0\TesteDeProjetos.dll
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\bin\Debug\net7.0\TesteDeProjetos.pdb
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\obj\Debug\net7.0\TesteDeProjetos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\obj\Debug\net7.0\TesteDeProjetos.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\obj\Debug\net7.0\TesteDeProjetos.AssemblyInfo.cs
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\obj\Debug\net7.0\TesteDeProjetos.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\obj\Debug\net7.0\TesteDeProjetos.dll
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\obj\Debug\net7.0\refint\TesteDeProjetos.dll
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\obj\Debug\net7.0\TesteDeProjetos.pdb
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\obj\Debug\net7.0\TesteDeProjetos.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\CSharp\TesteDeProjetos\obj\Debug\net7.0\ref\TesteDeProjetos.dll

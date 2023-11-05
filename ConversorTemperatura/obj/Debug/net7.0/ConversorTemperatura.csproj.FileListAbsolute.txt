@@ -13,3 +13,17 @@ C:\Users\saoma\Documents\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7
 C:\Users\saoma\Documents\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.pdb
 C:\Users\saoma\Documents\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.genruntimeconfig.cache
 C:\Users\saoma\Documents\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ref\ConversorTemperatura.dll
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\bin\Debug\net7.0\ConversorTemperatura.exe
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\bin\Debug\net7.0\ConversorTemperatura.deps.json
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\bin\Debug\net7.0\ConversorTemperatura.runtimeconfig.json
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\bin\Debug\net7.0\ConversorTemperatura.dll
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\bin\Debug\net7.0\ConversorTemperatura.pdb
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.AssemblyInfo.cs
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.dll
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\refint\ConversorTemperatura.dll
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.pdb
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ref\ConversorTemperatura.dll

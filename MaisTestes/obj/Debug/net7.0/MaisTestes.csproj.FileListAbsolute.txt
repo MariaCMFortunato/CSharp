@@ -1,0 +1,14 @@
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\bin\Debug\net7.0\MaisTestes.exe
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\bin\Debug\net7.0\MaisTestes.deps.json
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\bin\Debug\net7.0\MaisTestes.runtimeconfig.json
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\bin\Debug\net7.0\MaisTestes.dll
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\bin\Debug\net7.0\MaisTestes.pdb
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\obj\Debug\net7.0\MaisTestes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\obj\Debug\net7.0\MaisTestes.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\obj\Debug\net7.0\MaisTestes.AssemblyInfo.cs
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\obj\Debug\net7.0\MaisTestes.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\obj\Debug\net7.0\MaisTestes.dll
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\obj\Debug\net7.0\refint\MaisTestes.dll
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\obj\Debug\net7.0\MaisTestes.pdb
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\obj\Debug\net7.0\MaisTestes.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\CSharp\MaisTestes\obj\Debug\net7.0\ref\MaisTestes.dll

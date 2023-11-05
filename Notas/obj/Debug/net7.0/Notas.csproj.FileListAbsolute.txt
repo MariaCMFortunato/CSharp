@@ -13,3 +13,17 @@ C:\Users\saoma\Documents\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\refint\Notas
 C:\Users\saoma\Documents\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.pdb
 C:\Users\saoma\Documents\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.genruntimeconfig.cache
 C:\Users\saoma\Documents\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\ref\Notas.dll
+G:\Documentos\MeusProjetos\CSharp\Notas\bin\Debug\net7.0\Notas.exe
+G:\Documentos\MeusProjetos\CSharp\Notas\bin\Debug\net7.0\Notas.deps.json
+G:\Documentos\MeusProjetos\CSharp\Notas\bin\Debug\net7.0\Notas.runtimeconfig.json
+G:\Documentos\MeusProjetos\CSharp\Notas\bin\Debug\net7.0\Notas.dll
+G:\Documentos\MeusProjetos\CSharp\Notas\bin\Debug\net7.0\Notas.pdb
+G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.AssemblyInfo.cs
+G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.dll
+G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\refint\Notas.dll
+G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.pdb
+G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\ref\Notas.dll
