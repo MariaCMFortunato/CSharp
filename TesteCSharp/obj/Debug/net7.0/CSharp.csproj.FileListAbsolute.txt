@@ -42,3 +42,4 @@ G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\refint\CSharp.dll
 G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.pdb
 G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
 G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\ref\CSharp.dll
+G:\Documentos\MeusProjetos\CSharp\TesteCSharp\obj\Debug\net7.0\CSharp.sourcelink.json

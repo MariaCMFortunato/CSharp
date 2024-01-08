@@ -27,3 +27,4 @@ G:\Documentos\MeusProjetos\CSharp\MediaNotas\obj\Debug\net7.0\refint\MediaNotas.
 G:\Documentos\MeusProjetos\CSharp\MediaNotas\obj\Debug\net7.0\MediaNotas.pdb
 G:\Documentos\MeusProjetos\CSharp\MediaNotas\obj\Debug\net7.0\MediaNotas.genruntimeconfig.cache
 G:\Documentos\MeusProjetos\CSharp\MediaNotas\obj\Debug\net7.0\ref\MediaNotas.dll
+G:\Documentos\MeusProjetos\CSharp\MediaNotas\obj\Debug\net7.0\MediaNotas.sourcelink.json

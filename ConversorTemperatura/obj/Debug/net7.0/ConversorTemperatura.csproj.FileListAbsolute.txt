@@ -27,3 +27,4 @@ G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\refint\C
 G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.pdb
 G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.genruntimeconfig.cache
 G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ref\ConversorTemperatura.dll
+G:\Documentos\MeusProjetos\CSharp\ConversorTemperatura\obj\Debug\net7.0\ConversorTemperatura.sourcelink.json

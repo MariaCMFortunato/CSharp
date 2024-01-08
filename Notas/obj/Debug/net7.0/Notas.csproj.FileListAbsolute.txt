@@ -27,3 +27,4 @@ G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\refint\Notas.dll
 G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.pdb
 G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.genruntimeconfig.cache
 G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\ref\Notas.dll
+G:\Documentos\MeusProjetos\CSharp\Notas\obj\Debug\net7.0\Notas.sourcelink.json
