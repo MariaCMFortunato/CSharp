@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediaNotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb54e4eab1ef8ecb8783df3e34fb447defb721b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27d3b772d7f4f8787ebed53535dbc544153ee8b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediaNotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediaNotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
