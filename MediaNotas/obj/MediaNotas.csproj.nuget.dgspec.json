@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Documentos\\MeusProjetos\\CSharp\\MediaNotas\\MediaNotas.csproj": {}
+    "E:\\Documentos\\MeusProjetos\\CSharp\\MediaNotas\\MediaNotas.csproj": {}
   },
   "projects": {
-    "G:\\Documentos\\MeusProjetos\\CSharp\\MediaNotas\\MediaNotas.csproj": {
+    "E:\\Documentos\\MeusProjetos\\CSharp\\MediaNotas\\MediaNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Documentos\\MeusProjetos\\CSharp\\MediaNotas\\MediaNotas.csproj",
+        "projectUniqueName": "E:\\Documentos\\MeusProjetos\\CSharp\\MediaNotas\\MediaNotas.csproj",
         "projectName": "MediaNotas",
-        "projectPath": "G:\\Documentos\\MeusProjetos\\CSharp\\MediaNotas\\MediaNotas.csproj",
+        "projectPath": "E:\\Documentos\\MeusProjetos\\CSharp\\MediaNotas\\MediaNotas.csproj",
         "packagesPath": "C:\\Users\\Maria11\\.nuget\\packages\\",
-        "outputPath": "G:\\Documentos\\MeusProjetos\\CSharp\\MediaNotas\\obj\\",
+        "outputPath": "E:\\Documentos\\MeusProjetos\\CSharp\\MediaNotas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
